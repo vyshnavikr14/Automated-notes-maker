@@ -1,1 +1,1 @@
-# project-batch1
+# Automated notes maker
